@@ -26,6 +26,13 @@ To the fullest extent permitted by law, DNA AI Studio shall not be liable for an
 ## 8. Changes to the Disclaimer
 We reserve the right to modify or update this disclaimer at any time without prior notice. Continued use of the Chat Bot after any changes constitutes your acceptance of the revised disclaimer.
 
+## 9. Additional Resources
+For further information on account management, privacy, and credits, please refer to the following resources:
+
+- **Account Deletion:** [How to Delete Your Account](https://github.com/duncanng-ait/biblespark-delete-account)
+- **Privacy Policy:** [Privacy Policy](https://github.com/duncanng-ait/biblespark-privacy)
+- **Credits:** [Credits and Acknowledgements](https://github.com/duncanng-ait/biblespark-credits)
+
 ---
 
 ### Contact Us
